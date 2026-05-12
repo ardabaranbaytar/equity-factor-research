@@ -84,3 +84,8 @@ Possible improvements:
 
 This project is for educational and research purposes only.  
 It is not financial advice.
+
+## Kaggle Notebook
+
+Original Kaggle version:  
+https://www.kaggle.com/code/ardabaranbaytar/equity-factor-research-momentum-and-volatility
