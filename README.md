@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in [quant-lab](https://github.com/ardabaranbaytar/quant-lab), with the look-ahead fixes, survivorship-bias handling and a paper-trading bot.
+
 # Equity Factor Research: Momentum and Volatility
 
 This project analyzes momentum and volatility factors in equity markets using Python.
